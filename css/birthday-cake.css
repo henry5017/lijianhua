@@ -175,6 +175,7 @@ body {
 	opacity: 1;
 	animation: happybirthdays 10s;
 	animation-delay: 0s;
+	font-weight: bolder;
 }
 @keyframes happybirthdays {
 	0% {
