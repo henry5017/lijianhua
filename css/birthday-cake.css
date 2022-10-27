@@ -175,7 +175,7 @@ body {
 	opacity: 1;
 	animation: happybirthdays 10s;
 	animation-delay: 0s;
-	font-weight: bolder;
+
 }
 @keyframes happybirthdays {
 	0% {
@@ -342,7 +342,7 @@ a.lk2:hover {
 			transition-duration: 1s;
 	-webkit-transition-timing-function: ease-in-put;
 			transition-timing-function: ease-in-put;
-	font-weight: 200;
+	font-weight: bolder;
 	font-family: "楷体";
 	color: #FFF;
 }
