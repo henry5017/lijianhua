@@ -168,6 +168,7 @@ body {
 
 
 .happy {
+	top:40%;
 	width: 100%;
 	text-align: center;
 	position:absolute;
@@ -195,17 +196,17 @@ body {
 @-webkit-keyframes happybirthdays {
 	0% {
 		position:absolute;
-		top:45%;
+		top:10%;
 		opacity: 0;
 	}
 	70% {
 		position:absolute;
-		top:45%;
+		top:30%;
 		opacity: 0;
 	}
 	100% {
 		position:absolute;
-		top:49%;
+		top:40%;
 		opacity: 1;
 	}
 }

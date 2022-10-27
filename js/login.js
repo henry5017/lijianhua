@@ -1,7 +1,7 @@
 $('#login-button').click(function (event) {
     var pwd=document.getElementById("pwd").value;
 		//修改密码请改此处
-    if(pwd=="0000"){
+    if(pwd=="1005"){
 			event.preventDefault();
 			$('form').fadeOut(500);
 			$('.wrapper').addClass('form-success');
@@ -11,7 +11,7 @@ $('#login-button').click(function (event) {
 			},2000);
 		}
 	else{
-		alert("密码是0000");
+		alert("密码是1005");
 	}
 });
 
